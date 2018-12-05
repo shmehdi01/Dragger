@@ -1,4 +1,7 @@
 # Dragger
+
+![](screen.gif)
+
 Drag Any View to touch another view and create a event in Android
 
 Step 1. Add the JitPack repository to your build file
